@@ -2,8 +2,8 @@
 
 ## Представляю вашему вниманию работы по верстке:
 
-[Статическая](https://slavaroskoshnyy.github.io/watch/),
-[Репазиторий в GitHub](https://github.com/slavaroskoshnyy/watch),
+![Статическая](https://slavaroskoshnyy.github.io/watch/),
+![Репазиторий в GitHub](https://github.com/slavaroskoshnyy/watch),
 [С адаптивом](https://slavaroskoshnyy.github.io/chair/),
 [Репазиторий в GitHub](https://github.com/slavaroskoshnyy/chair),
 [Здесь помимо адаптива я поигрался с анимацией](https://slavaroskoshnyy.github.io/Qubly/),
