@@ -8,7 +8,7 @@
   * [Репозиторий в GitHub](https://github.com/slavaroskoshnyy/chair).
 * [Здесь помимо адаптива я поигрался с анимацией](https://slavaroskoshnyy.github.io/Qubly/).
   * [Репозиторий в GitHub](https://github.com/slavaroskoshnyy/Qubly).
-* [Eщё вариан без адаптива, но с анимацией](https://slavaroskoshnyy.github.io/QA_road_task_1-layout/).
+* [Ещё вариант без адаптива, но с анимацией](https://slavaroskoshnyy.github.io/QA_road_task_1-layout/).
   * [Репозиторий в GitHub](https://github.com/slavaroskoshnyy/QA_road_task_1-layout).
 
 ### Данными работами я показывай, что у меня есть frontend опыт. Я понимаю, как располагаются элементы, какие бывают отступы, где посмотреть размеры и т.д. 
