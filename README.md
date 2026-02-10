@@ -9,7 +9,7 @@
 - [Страница «Chair» с адаптивной версткой](https://slavaroskoshnyy.github.io/chair/) — [Код в GitHub](https://github.com/slavaroskoshnyy/chair).
 - [Лендинг «Qubly»: адаптив + анимации](https://slavaroskoshnyy.github.io/Qubly/) — [Код в GitHub](https://github.com/slavaroskoshnyy/Qubly).
 - [Учебный макет без адаптива, но с анимацией](https://slavaroskoshnyy.github.io/QA_road_task_1-layout/) — [Код в GitHub](https://github.com/slavaroskoshnyy/QA_road_task_1-layout).
-- [Моё резюме на HTML/CSS](https://slavaroskoshnyy.github.io/CV_QA_Engeneer_Roskoshnyi/). — [Код в GitHub](https://github.com/slavaroskoshnyy/CV_QA_Engineer_Roskoshnyi).
+<!-- - [Моё резюме на HTML/CSS](https://slavaroskoshnyy.github.io/CV_QA_Engeneer_Roskoshnyi/). — [Код в GitHub](https://github.com/slavaroskoshnyy/CV_QA_Engineer_Roskoshnyi). -->
 
 ## Технологии
 
